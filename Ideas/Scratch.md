@@ -1,6 +1,8 @@
-yo tenia pensado que para la zona principal haya una zona en la uqe necesitas conseguir una rosa azul y otra roja para pasar a la parte de la iglesia y que es a lo que es un sueño que cuando pase la puerta directmaente aparezca en el campo de rosas escuchando una melodia con ritmo de corazon mientras se va ahcercando  hacia la segunda parte del nivel el ucal seria la iglesia en si. que puzles aparte de estos podria haber en toda la parte del laberinto de rosas 
+El inicio del juego va aser una pantalla en negro que lo unico que diga sea soñar 
 
-Que sea un survival Horror
+
+
+Que sea un survival Horror, pero que sea un horror solo por la musica y el ambiente no por nada mas, tensio nde que algo te persiga y demas, no porque se vea feo, que tenga  colores frios pero vivos
 
 Primer nivel campo de rosas
 
@@ -17,4 +19,9 @@ muestren como cuencas y demás, que al fin y a cabo este ser aun no es un ser vi
 la mecanica de enfocar que consiste com oen concentrarte en el sueño y cambiar el entorno, esto puede ayudar a puzles
 
 que hay un monstruo muy lento que te persiga constantemente y que sea los remanentess de los anteriroes experimentos fallidos, estando corrompido por el escenario, que este solo se pueda ver si esta conecntrando hacia ese lado
+
+
+
+que en el primer nivel del campo de rosas la primara parte del nivel que es el parte de rosas en si para superar toda esa parte se tenga que reunir una rosa roja y otra azul cada una representando los temas de los 2 lados de los sentimiento, que la tenga que buscar en una serie de pasillos laberinticos llenos de puzzles y lugaresw imposibles y demas
+Despuews de que se pase esa puerta aparezca directamnete en el camp ode rosas en si caminando lentamente hacia la  iglesia de mader la cual se hace cada vez mas pequeña al entrar, rompe con toda logica siendo gigante por dentro y con cuartos que no deberian estar ahi, resolviendo mas puzzles guiados por el latido hasta llegar al sapo quien te da el coraszon y puedes pasar al siguiente nivel.
 
