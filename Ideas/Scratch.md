@@ -28,4 +28,6 @@ Despuews de que se pase esa puerta aparezca directamnete en el camp ode rosas en
 que haya algun foreshadowingg que sea atodo un experimento, yo pensaba un espejo viejo de repente te mires y aparezca por 2 segundos un laboratorio y unos tubos y demas. que el espejo tenga la frase "Los espejos son una puerta para ver lo que realmente esta pasando en tu cabeza"
 
 
+Como referncia a otros juegos me gustaria que haya cambios en el estilo, por ejempli que toda coasa que aparezca en la tele o poster o demas sean fotos de personas reales a baja resolucion pero al final reales (sacadi del alan wake 2)
 
+Pasar por un pasadizo sin paredes y la camara va cambiando, visto desde arriba abajo ozquierda derecha pata  molestar
