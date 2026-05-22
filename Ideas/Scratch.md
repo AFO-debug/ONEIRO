@@ -25,3 +25,7 @@ que hay un monstruo muy lento que te persiga constantemente y que sea los remane
 que en el primer nivel del campo de rosas la primara parte del nivel que es el parte de rosas en si para superar toda esa parte se tenga que reunir una rosa roja y otra azul cada una representando los temas de los 2 lados de los sentimiento, que la tenga que buscar en una serie de pasillos laberinticos llenos de puzzles y lugaresw imposibles y demas
 Despuews de que se pase esa puerta aparezca directamnete en el camp ode rosas en si caminando lentamente hacia la  iglesia de mader la cual se hace cada vez mas pequeña al entrar, rompe con toda logica siendo gigante por dentro y con cuartos que no deberian estar ahi, resolviendo mas puzzles guiados por el latido hasta llegar al sapo quien te da el coraszon y puedes pasar al siguiente nivel.
 
+que haya algun foreshadowingg que sea atodo un experimento, yo pensaba un espejo viejo de repente te mires y aparezca por 2 segundos un laboratorio y unos tubos y demas. que el espejo tenga la frase "Los espejos son una puerta para ver lo que realmente esta pasando en tu cabeza"
+
+
+
