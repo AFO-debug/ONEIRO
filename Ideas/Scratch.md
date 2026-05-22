@@ -12,3 +12,9 @@ bichos representativos como monstruos de rosas negras y azules (se marchitan por
 
 que el prota sea un modelo de hombre totalmente pintado de negro, que cuando gane atributos apenas san notables, un corazon apenas visible y que sea oscuro, los ojos se 
 muestren como cuencas y demás, que al fin y a cabo este ser aun no es un ser vivo, eso representado con los colores.
+
+
+la mecanica de enfocar que consiste com oen concentrarte en el sueño y cambiar el entorno, esto puede ayudar a puzles
+
+que hay un monstruo muy lento que te persiga constantemente y que sea los remanentess de los anteriroes experimentos fallidos, estando corrompido por el escenario, que este solo se pueda ver si esta conecntrando hacia ese lado
+
