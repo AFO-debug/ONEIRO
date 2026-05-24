@@ -319,7 +319,7 @@ MonoBehaviour:
   - m_Script
   m_LockStageInInspector: 
   m_StreamingVersion: 20170927
-  m_Priority: 10
+  m_Priority: 0
   m_StandbyUpdate: 2
   m_LookAt: {fileID: 0}
   m_Follow: {fileID: 0}
@@ -573,7 +573,7 @@ Transform:
   m_GameObject: {fileID: 349519757}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0.63801897, z: -0, w: 0.77002066}
-  m_LocalPosition: {x: 1.679351, y: 2.36, z: 9.6661005}
+  m_LocalPosition: {x: -4.63, y: 2.36, z: 10.86}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -760,8 +760,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
   serializedVersion: 2
-  m_LocalRotation: {x: -0.15831378, y: 0.6976897, z: -0.16254914, w: -0.6795172}
-  m_LocalPosition: {x: 7.4230704, y: 5.1490307, z: 1.4131193}
+  m_LocalRotation: {x: -0.001152709, y: 0.99114454, z: -0.13250211, w: -0.008626937}
+  m_LocalPosition: {x: -8.90671, y: 4.1596704, z: 17.146914}
   m_LocalScale: {x: 1.4459, y: 1.4988, z: 1.5207}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -786,7 +786,7 @@ MonoBehaviour:
   m_UpdateMethod: 2
   m_BlendUpdateMethod: 1
   m_DefaultBlend:
-    m_Style: 1
+    m_Style: 0
     m_Time: 2
     m_CustomCurve:
       serializedVersion: 2
