@@ -31,3 +31,10 @@ que haya algun foreshadowingg que sea atodo un experimento, yo pensaba un espejo
 Como referncia a otros juegos me gustaria que haya cambios en el estilo, por ejempli que toda coasa que aparezca en la tele o poster o demas sean fotos de personas reales a baja resolucion pero al final reales (sacadi del alan wake 2)
 
 Pasar por un pasadizo sin paredes y la camara va cambiando, visto desde arriba abajo ozquierda derecha pata  molestar
+
+
+Un pasillo con muchas puertas que no importa cual te metas, sino que va segun eñ tiempo que permaneces
+
+
+Zona central, dos salas principales para desbloquear las rosas para pasar, una estatua donde colocar, al pasar se abre la puerta y un cambio instantaneo de ambiente al pasar, se pasa al campo abierto , te  vas hacercando lentamente a la iglesia dentro de la noebla y la musica se va distorsionando hasta el silencio total, en el cielo se puede llegar a ver levemente exp 1.3.q
+

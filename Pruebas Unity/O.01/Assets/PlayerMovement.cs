@@ -16,6 +16,11 @@ public class PlayerMovement : MonoBehaviour
 
     void Update()
     {
+        if (Input.GetButtonDown("Interact"))
+        {
+            Debug.Log("Interactuar");
+        }
+
         Vector3 movDir;
 
         transform.Rotate(0, Input.GetAxis("Horizontal") * turnSpeed * Time.deltaTime, 0);
